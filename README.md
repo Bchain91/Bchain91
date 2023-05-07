@@ -1,4 +1,4 @@
-### Hi there 👋
+### BChain 👋
 
 <!--
 **Bchain91/Bchain91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 | <center>분류</center> |<center>기술 스택</center>|
 | :-------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| *Languages & Code Rules*|<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=Coursera&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://user-images.githubusercontent.com/91246353/194322261-655a7117-69db-42ab-a81c-0b75241018d4.png" width=20 height=20/><img src="https://img.shields.io/badge/MISRA C-862633?style=flat-square"/> <img src="https://user-images.githubusercontent.com/91246353/194736240-2b747fe3-337b-4614-9e05-18cecf0b338c.png" width=20 height=20/><img src="https://img.shields.io/badge/CAPL-B70032?style=flat-square"/>|
+| *Languages & Code Rules*|<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=Coursera&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 | *MCU*| <img src="https://user-images.githubusercontent.com/91246353/193260442-710eeb9e-9557-4740-bf60-0185e366465d.png" width=25 height=20/><img src="https://img.shields.io/badge/ATmega128-3676C4?style=flat-square"/> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=Espressif&logoColor=white"/> <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/> <img src="https://user-images.githubusercontent.com/91246353/212485131-2c74b0b8-3734-462d-8d73-80fe928428a7.png" width=40 height=20/><img src="https://img.shields.io/badge/XC2200-0066B3?style=flat-square"/> <img src="https://img.shields.io/badge/SPC560B-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/> <img src="https://user-images.githubusercontent.com/91246353/194317910-343d4bdd-7973-4802-9660-cc21083d02e1.png" width=30 height=20/><img src="https://img.shields.io/badge/RH850-29289D?style=flat-square"/>|
 | *AP*| <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/> <img src="https://img.shields.io/badge/Jetson Nano-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/> |
 | *IDE*| <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://user-images.githubusercontent.com/91246353/193263639-616ae966-3ebf-4433-af37-fc8a2b906a0e.png" width=20 height=20/><img src="https://img.shields.io/badge/MicrochipStudio-EC1B24?style=flat-square"/> <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/> <img src="https://img.shields.io/badge/SPC5Studio-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>|
@@ -45,17 +45,14 @@ Here are some ideas to get you started:
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yumdari&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bchain91&show_icons=true&theme=tokyonight)
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumdari&hide_border=true&layout=compact" align="left" style="width: 100%" />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bchain91&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </td></tr></table>  
 
 <br/>  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yumdari&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bchain91&show_icons=true&theme=radical)
