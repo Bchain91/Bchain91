@@ -51,7 +51,6 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=Bchain91&repo=github-readme-stats&cache_seconds=86400&theme=tokyonight)
 
-
 </td></tr></table>  
 
 <br/>  
