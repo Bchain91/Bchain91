@@ -1,5 +1,5 @@
 ### BChain 👋
-![header](https://capsule-render.vercel.app/api?type=capsule&color=333333&height=300&section=header&text=Chain's%20GitHub%20&fontSize=60&desc=Welcome!&descAlignY=64&descAlign=67&fontColor=F5F5DC)
+![header](https://capsule-render.vercel.app/api?type=waving&color=333333&height=300&section=header&text=Chain's%20GitHub%20&fontSize=60&desc=Welcome!&descAlignY=64&descAlign=67&fontColor=F5F5DC)
 
 <br>
 
@@ -37,7 +37,8 @@
 
 </td><td valign="top" width="50%">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=Bchain91&repo=github-readme-stats&cache_seconds=86400&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=Bchain91&repo=example-repo&cache_seconds=86400&theme=tokyonight)
+
 
 </td></tr></table>  
 
