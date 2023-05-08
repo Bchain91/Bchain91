@@ -1,4 +1,11 @@
 ### BChain 👋
+![header](https://capsule-render.vercel.app/api?type=capsule&color=333333&height=300&section=header&text=Chain's%20GitHub%20&fontSize=60&desc=Welcome!&descAlignY=64&descAlign=67&fontColor=F5F5DC)
+
+<br>
+
+<Strong>📧Email📧</Strong><br>baecain@gmail.com<br>
+
+</p>
 
 <div align="center">
     
@@ -13,7 +20,7 @@
 
 | <center>분류</center> |<center>기술 스택</center>|
 | :-------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| *Languages & Code Rules*|<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=Coursera&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src = "https://img.shields.io/badge/JAVA-3DDC84?style=flat-square&logoColor=white"> |
+| *Languages & Code Rules*|<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=Coursera&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src = "https://img.shields.io/badge/J A V A-3DDC84?style=flat-square&logo=java&logoColor=white"> |
 | *MCU*| <img src="https://user-images.githubusercontent.com/91246353/193260442-710eeb9e-9557-4740-bf60-0185e366465d.png" width=25 height=20/><img src="https://img.shields.io/badge/ATmega128-3676C4?style=flat-square"/> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=Espressif&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/> |
 | *AP*| <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/> <img src="https://img.shields.io/badge/Jetson Nano-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/> |
 | *IDE*| <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> <img src = "https://img.shields.io/badge/Androidstudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white">|
