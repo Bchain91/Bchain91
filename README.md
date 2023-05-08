@@ -37,8 +37,7 @@
 
 </td><td valign="top" width="50%">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=Bchain91&repo=example-repo&cache_seconds=86400&theme=tokyonight)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bchain91&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </td></tr></table>  
 
