@@ -1,5 +1,5 @@
 ### BChain 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=333333&height=300&section=header&text=Chain's%20GitHub%20&fontSize=60&desc=Welcome!&descAlignY=64&descAlign=67&fontColor=F5F5DC)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&height=300&section=header&text=Chain's%20GitHub%20&fontSize=60&desc=Welcome!&descAlignY=64&descAlign=67&fontColor=F5F5DC)
 
 <br>
 
