@@ -1,11 +1,6 @@
-### BChain 👋
-![header](https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&height=300&section=header&text=Chain's%20GitHub%20&fontSize=60&desc=Welcome!&descAlignY=64&descAlign=67&fontColor=F5F5DC)
-
+![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Chain's%20GitHub%20&fontSize=60&desc=Welcome!&descAlignY=64&descAlign=67&fontColor=d6ace6&animation=fadeIn)
 <br>
-
 <Strong>📧Email📧</Strong><br>baecain@gmail.com<br>
-
-</p>
 
 <div align="center">
     
