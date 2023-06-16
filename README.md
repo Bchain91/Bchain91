@@ -11,7 +11,6 @@
     Embedded Developer 취업준비생
 </div>
 
-https://www.notion.so/27b59729b56f421a8cb56fb57002c659?v=46eb10b3c65246418d2f0fa8084e39db&pvs=4
     
 ## 다루어본 것들
 
